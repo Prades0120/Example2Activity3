@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example2Activity3</string>
+    <string name="hipotenusa">Hipotenusa</string>
+    <string name="introduce_un_cateto">Introduce un cateto</string>
+    <string name="introduce_el_otro_cateto">Introduce el otro cateto</string>
+    <string name="cateto">Cateto</string>
+    <string name="pulsa">Pulsa</string>
+</resources>
